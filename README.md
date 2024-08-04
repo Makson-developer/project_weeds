@@ -1,4 +1,4 @@
-# makson-dev.github.io
+# makson-developer.github.io
 my first website in html and css
 
 hello!
