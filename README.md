@@ -10,8 +10,8 @@ I'm still far from what I want to achieve but I hope you like it.
 <style>
   p>a {
     transition-duration: .8s;
-    background-color: linear-gradient(to top, var(#326D32), var(#C29030), var(#AD3824);
-    color: white;
+    color: black;
+    font-weight: bolder;
     display: inline-block;
     text-align: left;
     padding: 3px 10px;
@@ -28,4 +28,4 @@ I'm still far from what I want to achieve but I hope you like it.
   }
 </style>
 
-  <p><a href="https://makson-developer.github.io/project_weeds/weeds/index.html">Project weeds</a></p>
+  <p><a href="https://makson-developer.github.io/project_weeds/weeds/index.html">clique aqui</a></p>
