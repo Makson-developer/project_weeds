@@ -10,7 +10,7 @@ I'm still far from what I want to achieve but I hope you like it.
 <style>
   p>a {
     transition-duration: .8s;
-    background-color: linear-gradient(to top, #326D32, #C29030, #AD3824);
+    background-color: linear-gradient(to top, var(#326D32), var(#C29030), var(#AD3824);
     color: white;
     display: inline-block;
     text-align: left;
