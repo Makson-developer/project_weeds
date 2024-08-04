@@ -8,8 +8,9 @@ hello!
 I'm still far from what I want to achieve but I hope you like it.
 
 <style>
-  a{
+  p>a {
     transition-duration: .8s;
+    background-color: linear-gradient(to top, #326D32, #C29030, #AD3824);
     color: white;
     display: inline-block;
     text-align: left;
@@ -20,11 +21,11 @@ I'm still far from what I want to achieve but I hope you like it.
     text-decoration: none;
   }
 
-  a:hover {
+  p>a:hover {
     background-color:  rgba(0, 183, 255, 0.815);
     color: black;
     border-radius: 5px;
   }
 </style>
 
-  <a href="https://makson-developer.github.io/project_weeds/weeds/index.html">Project weeds</a>
+  <p><a href="https://makson-developer.github.io/project_weeds/weeds/index.html">Project weeds</a></p>
