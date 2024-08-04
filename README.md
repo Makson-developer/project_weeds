@@ -1,4 +1,4 @@
-# makson-developer.github.io
+# Project weeds
 my first website in html and css
 
 hello!
