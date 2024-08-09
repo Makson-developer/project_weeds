@@ -32,7 +32,7 @@
 }
 
 body {
-    background-color: var(--cor0);
+    background-image: url('img/background.jpg');
     text-decoration: none;
 }
 
