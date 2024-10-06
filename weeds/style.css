@@ -210,3 +210,14 @@ aside ol{
     columns: 2;
     text-decoration: underline;
 }
+
+aside>p>a{
+    text-align: center;
+    display: block;
+    padding: 3px;
+    background-color: rgb(97, 216, 93);
+    color: white;
+    border-radius: 5px;
+    font-weight: bold;
+
+}
