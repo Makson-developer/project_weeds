@@ -1,1 +1,27 @@
 @charset "UTF-8";
+
+h2, h3{
+margin-top: 58px;
+}
+
+p{
+    margin-bottom: 47px;
+}
+
+aside p{
+    margin-bottom: -5px; 
+}
+
+
+body, main, section {
+    margin: 15px;
+    border: none;
+    box-shadow: none;
+}
+
+.print{
+    display: none;
+}
+footer p{
+    color:black;
+}
