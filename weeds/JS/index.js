@@ -1,0 +1,1 @@
+alert('Site de demonstração de competências em desenvolvimento web com HTML5 e CSS3. Conteúdo meramente ilustrado e sem fins lucrativos por uso do mesmo.')
